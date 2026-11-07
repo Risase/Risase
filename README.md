@@ -1,105 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,55:211047,100:00F5D4&height=190&section=header&text=RISASE&fontSize=68&fontColor=F4F4F8&fontAlignY=45&desc=CREATIVE%20MODE%20%2F%2F%20ONLINE&descSize=15&descAlignY=72" width="100%" alt="Risase profile banner" />
+<p><sub>WOW PROFILE · RISASE · LIVE</sub></p>
 
-<br />
-
-<img src="https://github.com/Risase.png" width="115" alt="Risase's GitHub avatar" />
-
-<br />
-
-<a href="https://github.com/Risase">
-  <img src="https://img.shields.io/badge/GITHUB-Risase-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=11111B" alt="GitHub: Risase" />
-</a>
-<img src="https://img.shields.io/badge/PLAYER%20STATUS-BUILDING-FF2E88?style=for-the-badge&labelColor=11111B" alt="Player status: building" />
-
-<br /><br />
-
-### ✦ Making ideas playable ✦
-Creative projects, web experiments, and little corners of the internet.
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=living-identity&label=risase&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=living-identity&label=risase&v=wow-living-identity-1&mode=dark" width="100%" alt="risase animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<p>Building useful things and sharing the work in public.</p>
+<p><a href="https://github.com/risase">GitHub</a></p>
 </div>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<table>
+<h2>Identity, with signal</h2>
+
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
-<td width="58%" valign="top">
-
-## ◈ PLAYER PROFILE
-
-Hi, I’m **Risase**. I enjoy building creative projects and bringing ideas to life on the web.
-
-- 🎮 **Current mode:** creating and experimenting
-- 🌌 **Looking for:** the next idea worth building
-- ✨ **Favorite side quest:** making things feel a little more fun
-
-</td>
-<td width="42%" valign="top">
-
-## ◈ STATUS
-
-```text
-PLAYER   Risase
-MODE     Creative
-STATUS   Online
-NEXT     Loading...
-```
-
-</td>
+<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `HTML`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>16</strong> repos<br /><strong>1</strong> stars<br /><strong>15</strong> contributions<br /><strong>0</strong> followers</p></td>
 </tr>
 </table>
 
-## ◈ SELECT YOUR PORTAL
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<table>
+<h2>What moves the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&items=HTML%3A%3ACurrent%20focus&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&items=HTML%3A%3ACurrent%20focus&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="risase animated profile highlights" />
+</picture>
+
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The tools behind the signal</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="risase animated technology stack" />
+</picture>
+
+<p align="center"><sub>HTML · chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Built, shipped, shared</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&repos=risase%2Fmy-portfolio%2Crisase%2FDreamy-Donut%2Crisase%2Fdreamy-donuts%2Crisase%2Fquantumprints&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&repos=risase%2Fmy-portfolio%2Crisase%2FDreamy-Donut%2Crisase%2Fdreamy-donuts%2Crisase%2Fquantumprints&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="risase animated project constellation" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&repos=risase%2Fmy-portfolio%2Crisase%2FDreamy-Donut%2Crisase%2Fdreamy-donuts%2Crisase%2Fquantumprints&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&repos=risase%2Fmy-portfolio%2Crisase%2FDreamy-Donut%2Crisase%2Fdreamy-donuts%2Crisase%2Fquantumprints&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="risase animated project launch timeline" />
+</picture>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🍩 Dreamy-Donut
-A project from my creative corner of the grid.
-
-[**OPEN PROJECT ↗**](https://github.com/Risase/Dreamy-Donut)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖨️ quantumprints
-A business website project.
-
-[**OPEN PROJECT ↗**](https://github.com/Risase/quantumprints)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🪩 my-portfolio
-Portfolio project.
-
-[**OPEN PROJECT ↗**](https://github.com/Risase/my-portfolio)
-
-</td>
-<td width="50%" valign="top">
-
-### 💌 valentines
-A playful project.
-
-[**OPEN PROJECT ↗**](https://github.com/Risase/valentines)
-
-</td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Risase/my-portfolio">my-portfolio</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Risase/Dreamy-Donut">Dreamy-Donut</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Risase/dreamy-donuts">dreamy-donuts</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Risase/quantumprints">quantumprints</a></strong></p><p>business website</p><p><sub>HTML · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
-## ◈ PLAYER STATS
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Momentum, made visible</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="risase animated GitHub signal" />
+</picture>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The trail behind the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="risase contribution energy field" />
+</picture>
+
+<p align="center"><sub>0 day current streak · 3 active days</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Risase&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=00F5D4&icon_color=FF2E88&text_color=E8E8F0" alt="Risase's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risase&layout=compact&hide_border=true&bg_color=0B0B12&title_color=00F5D4&text_color=E8E8F0" alt="Top languages" />
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=risase&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168406862%3Fv%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="risase contact links" />
+</picture>
+<p><a href="https://github.com/risase">GitHub</a></p>
+<p><sub>risase · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
-
-<div align="center">
-  <sub>Thanks for stopping by. See you in the next level. ✦</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:211047,100:0B0B12&height=100&section=footer" width="100%" alt="Neon footer" />
